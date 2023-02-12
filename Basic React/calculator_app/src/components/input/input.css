@@ -1,0 +1,19 @@
+.input{
+    width: 250px;
+    padding: 2px 6px;
+    border: 1px solid #334155;
+    border-radius: 4px;
+}
+
+.input > input {
+    width: 245px;
+    border: none;
+    outline: none;
+}
+
+.inputContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 8px;
+}

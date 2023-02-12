@@ -1,0 +1,21 @@
+.buttonContainer {
+    display: flex;
+    margin-top: 4px;
+}
+
+.button {
+    text-align: center;
+    font-weight: 500;
+    border-radius: 4px;
+    padding: 6px 12px;
+    margin-right: 4px;
+    outline: none;
+    border: 1px solid #334155;
+    background-color: #e2e8f0;
+    cursor: pointer;
+}
+
+.button__reset {
+    background-color: #f87171 !important;
+    color: white;
+}
